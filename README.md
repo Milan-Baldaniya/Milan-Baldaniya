@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Wanted: Captain Milan — The AI Voyager. Full-Stack AI / LLM Application Engineer, Surat, Gujarat, India." width="100%" />
+  <img src="./assets/banner.svg" alt="Milan Baldaniya — Full-Stack AI / LLM Application Engineer. RAG systems, multi-agent LLM pipelines, workflow automation. Next.js, FastAPI, Laravel, Supabase / pgvector, DeepSeek. Surat, Gujarat, India." width="100%" />
 </div>
 
 <div align="center">
