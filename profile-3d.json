@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-brass.svg",
+  "backgroundColor": "#06101c",
+  "foregroundColor": "#f0cf95",
+  "strongColor": "#ffcf5c",
+  "weakColor": "#a9803f",
+  "radarColor": "#ffcf5c",
+  "growingAnimation": true,
+  "contribColors": [
+    "#0e1726",
+    "#5c4519",
+    "#8a6427",
+    "#c99a44",
+    "#ffcf5c"
+  ]
+}
