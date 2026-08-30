@@ -101,7 +101,7 @@ pipelines and workflow automation — and then build the whole product around th
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/Milan-Baldaniya/insuretech"><img src="./assets/posters/insurance-rag-chatbot.webp" width="100%" alt="Insurance RAG Chatbot wanted poster" /></a>
   <br/><b>Insurance RAG Chatbot</b>
-  <br/><sub>Advisory assistant with hybrid retrieval, citations, an IRDAI compliance engine and SSE streaming. Built without LangChain, on purpose.</sub>
+  <br/><sub>Advisory assistant with hybrid retrieval, citations, an IRDAI compliance engine and SSE streaming. Custom retrieval stack with an automated evaluation harness.</sub>
   <br/><br/><code>FastAPI</code> <code>pgvector</code> <code>Next.js</code>
   <br/><a href="https://insuretech-wine.vercel.app/">Live ↗</a> · <a href="https://github.com/Milan-Baldaniya/insuretech">Code</a>
 </td>
