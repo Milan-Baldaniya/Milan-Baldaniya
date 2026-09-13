@@ -40,7 +40,7 @@
 I build **production features on top of foundation models** — retrieval systems, multi-agent LLM
 pipelines and workflow automation — and then build the whole product around them.
 
-- 🏢 **Full-Stack AI / LLM Application Engineer** at **Triz Innovation** — intern *(Dec 2025)* → full-time *(Apr 2026 → now)*
+- 🏢 **Full-Stack AI / LLM Application Engineer** at **Scholar Clone** — intern *(Dec 2025)* → full-time *(Apr 2026 → now)*
 - 🔧 Day to day: **Next.js · FastAPI · Laravel · Supabase/pgvector · DeepSeek**
 - 🔭 Currently working on hybrid-retrieval RAG, document intelligence at scale, and agentic pipelines that hold up under real users
 - 🎓 Final-year **B.Tech Computer Engineering**, CHARUSAT *(2022 – 2026)*
@@ -217,12 +217,12 @@ pipelines and workflow automation — and then build the whole product around th
 
 | | Role | Where | When |
 |:--|:--|:--|:--|
-| 🏝️ | **Full-Stack AI Engineer** | Triz Innovation, Surat | Dec 2025 → now |
+| 🏝️ | **Full-Stack AI Engineer** | Scholar Clone, Surat | Dec 2025 → now |
 | 🔬 | **ML &amp; Data Analysis Intern** | BrainyBeam Technologies, Ahmedabad | May – Jul 2025 |
 | 🌊 | **Web Developer Intern** | Agevole Innovation, Surat | May – Jun 2024 |
 | 🎓 | **B.Tech, Computer Engineering** | CHARUSAT, Anand | 2022 – 2026 |
 
-**At Triz I've shipped:** an insurance RAG assistant on FastAPI + pgvector · a MinerU document-intelligence
+**At Scholar Clone I've shipped:** an insurance RAG assistant on FastAPI + pgvector · a MinerU document-intelligence
 platform with a three-agent LLM pipeline · concept-wise question and rubric generation for a Laravel/Next.js
 K-12 platform · 16 n8n automation workflows · and the Next.js frontends for two ERPs and three marketing sites.
 
